@@ -1,6 +1,7 @@
-### Hi there 👋
+![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 <!--
+### Hi there 👋
 **artmsilva/artmsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
